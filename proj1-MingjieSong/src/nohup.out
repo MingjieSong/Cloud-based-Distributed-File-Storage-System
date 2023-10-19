@@ -1,0 +1,222 @@
+My server Id: 0
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+Server id 0 -------reach here 1  --------size of the map 6
+Server id 0 -------reach here 2 --------
+--------------- 6
+--------------- 0
+--------------- 0
+--------------- 0
+send_data size:   6
+send_data size:   0
+My server Id: 3
+My server Id: 1
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+Server id 1 -------reach here 1  --------size of the map 17
+Server id 3 -------reach here 1  --------size of the map 7
+Server id 1 -------reach here 2 --------
+--------------- 0
+--------------- 17
+--------------- 0
+--------------- 0
+send_data size:   0
+Server id 3 -------reach here 2 --------
+--------------- 0
+--------------- 0
+--------------- 0
+--------------- 7
+send_data size:   0
+My server Id: 2
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+Server id 2 -------reach here 1  --------size of the map 10
+Server id 2 -------reach here 2 --------
+--------------- 0
+--------------- 0
+--------------- 10
+--------------- 0
+send_data size:   0
+Server id 3 -------reach here 3 --------
+Server id 3 -------reach here 4 --------
+send_data size:   0
+Server id 1 -------reach here 3 --------
+Server id 0 -------reach here 3 --------
+Server id 2 -------reach here 3 --------
+Server id 0 -------reach here 4 --------
+Server id 1 -------reach here 4 --------
+send_data size:   17
+send_data size:   0
+Server id 2 -------reach here 4 --------
+send_data size:   0
+send_data size:   0
+Server id 3 -------reach here 3 --------
+Server id 0 -------reach here 3 --------
+Server id 2 -------reach here 3 --------
+Server id 3 -------reach here 4 --------
+Server id 0 -------reach here 4 --------
+send_data size:   0
+Server id 2 -------reach here 4 --------
+send_data size:   0
+Server id 1 -------reach here 3 --------
+Server id 1 -------reach here 4 --------
+send_data size:   0
+send_data size:   10
+send_data size:   0
+Server id 2 -------reach here 3 --------
+Server id 2 -------reach here 4 --------
+Server id 0 -------reach here 3 --------
+Server id 1 -------reach here 3 --------
+Server id 2 -------reach here 5 --------
+Server id 2 -------not even here for once ?  --------
+Server id 3 -------reach here 3 --------
+Server id 0 -------reach here 4 --------
+Server id 0 -------reach here 5 --------
+Server id 0 -------not even here for once ?  --------
+Server id 2 -------reach here 5 --------
+Server id 0 -------reach here 5 --------
+Server id 1 -------reach here 4 --------
+Server id 2 -------not even here for once ?  --------
+Server id 3 -------reach here 4 --------
+send_data size:   7
+Server id 3 -------reach here 5 --------
+Server id 2 -------reach here 5 --------
+Server id 0 -------not even here for once ?  --------
+Server id 2 -------not even here for once ?  --------
+Server id 2 -------reach here 6 finished  --------
+Server id 2 -------reach here 8 -------- record size:  10
+Server id 1 -------reach here 5 --------
+Server id 0 -------reach here 5 --------
+Server id 1 -------not even here for once ?  --------
+Server id 1 -------reach here 5 --------
+Server id 1 -------not even here for once ?  --------
+Server id 1 -------reach here 5 --------
+Server id 0 -------not even here for once ?  --------
+Server id 1 -------not even here for once ?  --------
+Server id 1 -------reach here 6 finished  --------
+Server id 1 -------reach here 8 -------- record size:  17
+Server id 3 -------not even here for once ?  --------
+Server id 3 -------reach here 5 --------
+Server id 3 -------not even here for once ?  --------
+Server id 3 -------reach here 5 --------
+Server id 3 -------not even here for once ?  --------
+Server id 3 -------reach here 6 finished  --------
+Server id 3 -------reach here 8 -------- record size:  7
+Server id 0 -------reach here 6 finished  --------
+Server id 0 -------reach here 8 -------- record size:  6
+My server Id: 0
+My server Id: 2
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+Server id 0 -------reach here 1  --------size of the map 6
+Server id 0 -------reach here 2 --------
+--------------- 6
+--------------- 0
+--------------- 0
+--------------- 0
+send_data size:   6
+send_data size:   0
+Server id 2 -------reach here 1  --------size of the map 10
+Server id 2 -------reach here 2 --------
+--------------- 0
+--------------- 0
+--------------- 10
+--------------- 0
+send_data size:   0
+My server Id: 3
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+Server id 3 -------reach here 1  --------size of the map 7
+Server id 3 -------reach here 2 --------
+--------------- 0
+--------------- 0
+--------------- 0
+--------------- 7
+send_data size:   0
+My server Id: 1
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+Server id 1 -------reach here 1  --------size of the map 17
+Server id 1 -------reach here 2 --------
+--------------- 0
+--------------- 17
+--------------- 0
+--------------- 0
+send_data size:   0
+Server id 2 -------reach here 3 --------
+------------debug for record value   0
+Server id 2 -------reach here 4 --------
+send_data size:   0
+2023/02/07 12:30:28 netsort.go:96: server id:  0  Could not dial:  dial tcp 127.0.0.1:8081: connect: connection refused
+Server id 3 -------reach here 3 --------
+------------debug for record value   0
+Server id 3 -------reach here 4 --------
+send_data size:   0
+2023/02/07 12:30:28 netsort.go:96: server id:  2  Could not dial:  dial tcp 127.0.0.1:8081: connect: connection refused
+Server id 1 -------reach here 3 --------
+------------debug for record value   0
+Server id 1 -------reach here 4 --------
+send_data size:   17
+send_data size:   0
+Server id 3 -------reach here 3 --------
+------------debug for record value   0
+Server id 3 -------reach here 4 --------
+send_data size:   0
+Server id 3 -------reach here 3 --------
+Server id 1 -------reach here 3 --------
+------------debug for record value   0
+------------debug for record value   0
+Server id 1 -------reach here 4 --------
+Server id 3 -------reach here 4 --------
+send_data size:   7
+send_data size:   0
+Server id 3 -------reach here 5 --------
+Server id 1 -------reach here 3 --------
+------------debug for record value   0
+Server id 1 -------reach here 4 --------
+Server id 1 -------reach here 5 --------
+Server id 1 -------not even here for once ?  --------
+Server id 1 -------reach here 5 --------
+Server id 3 -------not even here for once ?  --------
+Server id 3 -------reach here 5 --------
+Server id 2 -------reach here 3 --------
+------------debug for record value   0
+Server id 2 -------reach here 4 --------
+Server id 0 -------reach here 3 --------
+send_data size:   10
+Server id 1 -------not even here for once ?  --------
+------------debug for record value   0
+Server id 1 -------reach here 5 --------
+send_data size:   0
+Server id 0 -------reach here 4 --------
+send_data size:   0
+Server id 1 -------not even here for once ?  --------
+Server id 1 -------reach here 6 finished  --------
+Server id 1 -------reach here 8 -------- record size:  17
+Server id 0 -------reach here 3 --------
+Server id 2 -------reach here 3 --------
+------------debug for record value   0
+------------debug for record value   0
+Server id 0 -------reach here 4 --------
+send_data size:   0
+Server id 2 -------reach here 4 --------
+Server id 2 -------reach here 5 --------
+Server id 2 -------not even here for once ?  --------
+Server id 2 -------reach here 5 --------
+Server id 2 -------not even here for once ?  --------
+Server id 3 -------not even here for once ?  --------
+Server id 2 -------reach here 5 --------
+Server id 3 -------reach here 5 --------
+Server id 2 -------not even here for once ?  --------
+Server id 2 -------reach here 6 finished  --------
+Server id 2 -------reach here 8 -------- record size:  10
+Server id 0 -------reach here 3 --------
+------------debug for record value   0
+Server id 0 -------reach here 4 --------
+Server id 0 -------reach here 5 --------
+Server id 0 -------not even here for once ?  --------
+Server id 0 -------reach here 5 --------
+Server id 0 -------not even here for once ?  --------
+Server id 0 -------reach here 5 --------
+Server id 0 -------not even here for once ?  --------
+Server id 0 -------reach here 6 finished  --------
+Server id 0 -------reach here 8 -------- record size:  6
+Server id 3 -------not even here for once ?  --------
+Server id 3 -------reach here 6 finished  --------
+Server id 3 -------reach here 8 -------- record size:  7
